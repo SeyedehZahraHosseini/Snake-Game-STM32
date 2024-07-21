@@ -42,6 +42,9 @@ This project is a comprehensive implementation of the classic Snake game designe
 
 ## Requirements
 
+![Screenshot 2024-07-21 202856](https://github.com/user-attachments/assets/f2b2e3e9-267c-4915-a8f1-7021b283585f)
+
+
 - STM32 Microcontroller
 - LCD for display
 - RTC module for real-time clock functionality
